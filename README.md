@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- FullStack developer<br>- Software developer @mbra<br>- looking for challenges</p>
+<p align="left">- FullStack developer<br>- Software developer @Caixa-Consórcio<br>- looking for challenges</p>
 
 ###
 
