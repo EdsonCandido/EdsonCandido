@@ -69,7 +69,7 @@ Portfolio: [portfolio.helioslabs.com.br](https://portfolio.helioslabs.com.br/)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdsonCandido&radius=16&theme=one-dark&area=true" height="300" alt="Activity graph" />
+  <img src="https://streak-stats.demolab.com?user=EdsonCandido&theme=onedark&hide_border=false" height="150" alt="GitHub streak" />
 </p>
 
 ---
