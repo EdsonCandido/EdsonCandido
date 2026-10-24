@@ -33,31 +33,56 @@ Portfolio: [portfolio.helioslabs.com.br](https://portfolio.helioslabs.com.br/)
 
 ---
 
-## Stack
+## Com o que eu trabalho / What I work with
 
-### Core (dia a dia / day-to-day)
+Full stack de ponta a ponta: interface, API e persistência, com foco em sistemas internos de vendas de consórcio.
 
-`C#` · `.NET` · `React` · `TypeScript` · `JavaScript` · `SQL`
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-</p>
-
-### Também trabalho com / Also work with
-
-`Node.js` · `Java` · `Spring` · `PHP` · `Docker` · `PostgreSQL` · `MySQL`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,docker,postgres,mysql" height="40" alt="Additional stack" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <p>Interfaces em React para operação interna.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+      </p>
+      <p><code>React</code> · <code>TypeScript</code> · <code>JavaScript</code></p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <p>APIs e regras de negócio no dia a dia em C# / .NET.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="36" alt=".NET" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="36" alt="Spring" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" />
+      </p>
+      <p><code>C#</code> · <code>.NET</code> · <code>Node.js</code> · <code>Java</code> · <code>Spring</code> · <code>PHP</code></p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Arquitetura e dados</h3>
+      <p>Persistência relacional e entrega em container.</p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+      </p>
+      <p><code>Docker</code> · <code>SQL</code> · <code>PostgreSQL</code> · <code>MySQL</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
